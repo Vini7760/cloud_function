@@ -1,5 +1,5 @@
 Its a small project 
-**1. Whenever it detect any file in the GCS it should keep that in respective folder and it will collect the logs of the Cloud Function in BQ**
+**1. Whenever it detect any file in the GCS it should keep that in respective folder and it should collect the logs of the Cloud Function in BQ**
 
 step 1: Set Up Google Cloud Storage (GCS)
 Create a GCS Bucket:
